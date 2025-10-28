@@ -1,4 +1,4 @@
-MDIA-1620 Midterm
+# MDIA-1620 Midterm
 This repository contains the long-answer section of your MDIA-1620 midterm.  
 
 
